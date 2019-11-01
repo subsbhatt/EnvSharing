@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972258856432",
+    "firebase_url": "https://envsharing.firebaseio.com",
+    "project_id": "envsharing",
+    "storage_bucket": "envsharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972258856432:android:13e2b99132ff31181ca135",
+        "android_client_info": {
+          "package_name": "com.example.envsharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972258856432-nvcvgc4bnfltave58fnsrh8vddcl7oos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.envsharing",
+            "certificate_hash": "950b91ef474bae913ee05147a73d83a7c4bd43d9"
+          }
+        },
+        {
+          "client_id": "972258856432-lbmvsrormb3fr26kcr7nfqloq5qqf7gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_0B7449Nnyqkp5cyHDVPD3bxg02vYAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972258856432-lbmvsrormb3fr26kcr7nfqloq5qqf7gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
